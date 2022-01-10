@@ -1,0 +1,44 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+.tasbeh {
+    width: 130px;
+    height: 150px;
+    background:violet;
+    border: 1px solid black;
+    position: absolute;
+    top: 10%;
+    left: 39%;
+    border-radius: 20%;
+}
+.screen {
+    width: 55%;
+    height: 30px;
+    position: absolute;
+    top: 10%;
+    left: 20%;
+    caret-color: white;
+    border-radius: 9%;
+    border: 1px solid floralwhite;
+    text-align: center;
+    font-size: 34px;
+}
+.big_button {
+    position: absolute;
+    top: 42%;
+    left: 35%;
+    width: 43px;
+    height: 43px;
+    border-radius: 50%;
+    background-color: gray;
+}
+.small_button {
+    position: absolute;
+    width: 20px;
+    height: 20px;
+    border-radius: 50%;
+    border-color: black;
+    right: 15%;
+    bottom: 45%;
+}
